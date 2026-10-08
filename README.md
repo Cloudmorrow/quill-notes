@@ -10,15 +10,15 @@ the terminal and the command line.
   they are.
 - Search finds a note by its name or by any line in it.
 - Every note is a plain Markdown file in the Notes folder of your drive on
-  the server — the same file My Files, WebDAV, `cm note`, your assistant's
-  notes tools and any editor reach. Removing this Quill takes the tab away,
-  never a note.
+  the server — the same file My Files, WebDAV, your assistant and any editor
+  reach. Notes is an editor over those files and nothing more. Removing this
+  Quill takes the tab away, never a note.
 
 ## What it adds to your Cloudmorrow
 
 | | |
 | --- | --- |
-| Datamodels | uses the foundational `note` (domain *Notes*), which the core serves from the Notes folder of your drive |
+| Datamodels | uses the foundational `file` (domain *Files*): the Markdown files under Notes in your own drive, which the core serves as records with their text, folders and pictures |
 | Screens | one editor — folders and notes beside the page — on the phone, the web app, the terminal, `cm notes`, and to your assistant |
 | Jobs | none |
 | Datasets | `welcome`: a note on how the editor works, the first time somebody with no notes opens Notes |

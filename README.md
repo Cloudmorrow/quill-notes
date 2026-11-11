@@ -5,7 +5,7 @@ notes, in Markdown, in folders, with pictures — on the phone, the web app,
 the terminal and the command line.
 
 - A note is a title and a page of Markdown. Folders hold notes and other
-  folders.
+  folders, on your drive or, when you point Folders at one, a fileshare.
 - Pictures go in a note by pasting, dropping or picking them, and show where
   they are.
 - Search finds a note by its name or by any line in it.
@@ -27,7 +27,9 @@ kit's **editor** over those files, on every surface, and nothing more.
 
 The **Notes** tab is three screens, the way a phone's notes app is:
 **Folders**, the notes in one (newest first, with the first lines of each),
-and the note; on a computer the list and the note are side by side. The pen
+and the note; on a computer the list and the note are side by side. The
+first row under Folders is the drive the notes are on: tap it to look at a
+fileshare instead, whole, and again to come home to My Files. The pen
 beside the title starts a new note in the folder you are looking at. The
 title is the file name — a new note starts with a `# Title` heading
 matching it, shown as the title rather than as a line of the body; rename
@@ -39,9 +41,9 @@ the notes, not only at their names.
 **Spelling** is your cloud's own, not the browser's, once you switch it on
 under the gear on the Notes screen: the language you write in and the
 words you add are kept on you, for every device. A word it does not know
-is tinted with a bar under it; click or tap it for suggestions. Select
-some lines and right-click them, or hold a finger on them, to check them
-in another language; the part is marked at its left edge, with an × that
+is tinted with a bar under it; right-click it, or hold a finger on it,
+for suggestions. Select some lines and do the same to check them in
+another language; the part is marked at its left edge, with an × that
 takes it back. In the file the part stands between `<!-- lang: de -->`
 and `<!-- /lang -->` lines, which anything that renders Markdown leaves
 out.

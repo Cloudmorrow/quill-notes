@@ -36,6 +36,16 @@ Back out of a note you never wrote anything in and it is thrown away.
 Delete is the bin in the top corner, and asks first. Search looks inside
 the notes, not only at their names.
 
+**Spelling** is your cloud's own, not the browser's, once you switch it on
+under the gear on the Notes screen: the language you write in and the
+words you add are kept on you, for every device. A word it does not know
+is tinted with a bar under it; right-click it, or hold a finger on it,
+for suggestions. Select some lines and do the same to check them in
+another language; the part is marked at its left edge, with an × that
+takes it back. In the file the part stands between `<!-- lang: de -->`
+and `<!-- /lang -->` lines, which anything that renders Markdown leaves
+out.
+
 #### In the terminal app
 
 The **Notes** card (`f1`), the first in the workspace: the tree on the

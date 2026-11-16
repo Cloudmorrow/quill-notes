@@ -36,7 +36,10 @@ matching it, shown as the title rather than as a line of the body; rename
 the title and the file is renamed — and the note saves itself as you type.
 Back out of a note you never wrote anything in and it is thrown away.
 Delete is the bin in the top corner, and asks first. Search looks inside
-the notes, not only at their names.
+the notes, not only at their names. Every row of the list has a menu —
+right-click it on a computer, hold a finger on it on a phone: Rename,
+Duplicate, Move to another folder, Open folder in Files, Delete — and
+**Select** beside the pen picks several to move or delete at once.
 
 **Spelling** is your cloud's own, not the browser's, once you switch it on
 under the gear on the Notes screen: the language you write in and the
